@@ -1,4 +1,4 @@
-# IP-2023 Project
+# Automated TikTok Video Generator
 
 This project is a webapp that automatically generates tiktok-style videos based on given parameters.  We're focusing on 'repost' style content that anyone who regularly uses Tiktok, YouTube Shorts, or Instagram Reels is likely familiar with.  These kinds of videos always follow the same general template - some 'main' content (usually clips from popular TV shows like family guy or posts from forum sites like reddit) and some kind of 'background' content (generally unrelated to the main content of the video).  They're difficult for me to explain so here's some pictures:
 
